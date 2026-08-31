@@ -1,2 +1,3 @@
-# -
-查询功能仅限于我上传的药剂哦，广中医准大一开学前的python练手作
+# python-learning
+我的python学习记录-从零开始
+import tkinter 
